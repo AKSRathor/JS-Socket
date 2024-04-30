@@ -1,0 +1,33 @@
+.container{
+    display: block;
+    margin: auto;
+    text-align: center;
+    background-color: #232323;
+    max-width: 970px;
+    height: 90vh;
+    overflow-y: auto;
+}
+body{
+    background-color: rgb(189, 189, 189);
+}
+h1{
+    color: white;
+
+}
+.card{
+    margin: 10px;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.form{
+    padding-top: 5px;
+    width: 391px;
+    /* display: block; */
+    margin: auto;
+}
